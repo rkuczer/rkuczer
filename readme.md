@@ -11,7 +11,7 @@
 
 ### 📲 Connect with me:
 
-[<img align="left" alt="kooz.store | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe-light.svg" />][website]
+[![website](./img/globe-light.svg)](https://www.kooz.store)
 &nbsp;&nbsp;
 [<img align="left" alt="RyanKuczer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
