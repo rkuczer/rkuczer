@@ -9,7 +9,8 @@
 
 ## 🔧 Software Development Projects 🔧
 - ***<h3>[BSU Cubes Project (SQL, API usage, PyQt, Python)](https://github.com/rkuczer/rkuczerCUBESproject1)</h3>***
-- ***<h3>[Bandit Modifications (Open Source Project Contributions)](https://github.com/rkuczer/bandit)</h3>*** 
+- ***<h3>[Bandit Modifications (Open Source Project Contributions)](https://github.com/rkuczer/bandit)</h3>***
+- ***<h3>[State Price Calculator (Python)](https://github.com/rkuczer/homework1CapstoneKuczer)</h3>***
 
 
 ### 📲 Connect with me:
