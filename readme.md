@@ -5,7 +5,8 @@
 
 - ***<h3>[Creating a Live Honeynet in Azure](https://github.com/rkuczer/Azure-Honeynet)</h3>*** 
 - ***<h3>[Creating a Active Directory Homelab](https://github.com/rkuczer/Azure-Virtual-Active-Directory/tree/main)</h3>***
-- ***<h3>Cloud Resume Challenge</h3>***
+- ***<h3>[Cloud Resume Challenge](https://www.kooz.store)</h3>***
+- ***<h3>[Port Scanner](https://github.com/rkuczer/portScanner)</h3>***
 
 ## 🔧 Software Development Projects 🔧
 - ***<h3>[BSU Cubes Project (SQL, API usage, PyQt, Python)](https://github.com/rkuczer/rkuczerCUBESproject1)</h3>***
