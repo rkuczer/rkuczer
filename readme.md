@@ -7,6 +7,10 @@
 - ***<h3>[Creating a Active Directory Homelab](https://github.com/rkuczer/Azure-Virtual-Active-Directory/tree/main)</h3>***
 - ***<h3>Cloud Resume Challenge</h3>***
 
+## 🔧 Software Development Projects 🔧##
+- ***<h3>[BSU Cubes Project (SQL, API usage, PyQt, Python)](https://github.com/rkuczer/rkuczerCUBESproject1)</h3>***
+- - ***<h3>[Bandit Modifications (Open Source Project Contributions)](https://github.com/rkuczer/bandit)</h3>*** 
+
 
 ### 📲 Connect with me:
 
