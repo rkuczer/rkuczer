@@ -10,7 +10,7 @@
 
 ### 📲 Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.kooz.store)
+[<img align="left" alt="website" width="22px" src="https://icons.getbootstrap.com/assets/icons/globe.svg" />](https://www.kooz.store)
 &nbsp;&nbsp;
 [<img align="left" alt="RyanKuczer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
