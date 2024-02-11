@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan - An Application Support Specialist 👋 
 ## Here is where I will document my learning process during my time studying at Bridgewater State University to the present day with my professional work as well. 
-## My goal is to be as versatile as possible in the System administration world to do this I have studying and created projects involving security, development, and system administration.     
+My goal is to be as versatile as possible in the System administration world to do this I have gained knowledge though certifications in cloud (Azure), security (Google Cyber Professional, ISC2 Certified in Cybersecurity, IS-100.C Introduction to Incident Command System). And also through projects as well involving these domains. 
 
 ## 🔒💻 Cyber Security / IT Projects 💻🔒
 
