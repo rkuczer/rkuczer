@@ -2,6 +2,8 @@
 ## Here is where I will document my learning process during my time studying at Bridgewater State University to the present day with my professional work as well. 
 My goal is to be as versatile as possible in the System administration world to do this I have gained knowledge though certifications in cloud (Azure), security (Google Cyber Professional, ISC2 Certified in Cybersecurity, IS-100.C Introduction to Incident Command System). And also through projects as well involving these domains. 
 
+Everything new past 2023 will be stored on my portfolio site (https://rkuczer.github.io/)
+
 ## 🔒💻 Cyber Security / IT Projects 💻🔒
 
 - ***<h3>[Creating a Live Honeynet in Azure](https://github.com/rkuczer/Azure-Honeynet)</h3>***
