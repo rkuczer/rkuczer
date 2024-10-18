@@ -2,7 +2,7 @@
 ## Here is where I will document my learning process during my time studying at Bridgewater State University to the present day with my professional work as well. 
 My goal is to be as versatile as possible in the System administration world to do this I have gained knowledge though certifications in cloud (Azure), security (Google Cyber Professional, ISC2 Certified in Cybersecurity, IS-100.C Introduction to Incident Command System). And also through projects as well involving these domains. 
 
-Everything new past 2023 will be stored on my portfolio site (https://rkuczer.github.io/)
+# Everything new past 2023 will be stored on my portfolio site (https://rkuczer.github.io/)
 
 ## 🔒💻 Cyber Security / IT Projects 💻🔒
 
@@ -20,7 +20,7 @@ Everything new past 2023 will be stored on my portfolio site (https://rkuczer.gi
 
 ### 📲 Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://icons.getbootstrap.com/assets/icons/globe.svg" />](https://www.kooz.store)
+[<img align="left" alt="website" width="22px" src="https://icons.getbootstrap.com/assets/icons/globe.svg" />](https://www.ryankuczer.com)
 &nbsp;&nbsp;
 [<img align="left" alt="RyanKuczer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
